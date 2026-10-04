@@ -1,2 +1,10 @@
-# gasless-js-grind
-Learning smart contracts and blockchain development for callbacks and event loops. Back to blockchain engineering in 20 days, but first: keeping that profile looking like a healthy forest with JavaScript.
+# 20-Day JavaScript Sprint
+
+A temporary pit stop to shake off the JS rust, keep the GitHub contribution graph green, and prep for a quick code refresher. 
+
+- **Status:** Day X of 20
+- *4th October 2026* = DAY 1 of 20
+- *PROJECT* = CALCULATOR
+
+- 
+- **Destination:** Back to Blockchain engineering right after this!
